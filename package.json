@@ -1,0 +1,47 @@
+{
+  "name": "my_wiki",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.19.1",
+    "element-ui": "^2.15.6",
+    "volumetric-datagrid": "^1.0.22",
+    "vue": "^2.6.11",
+    "vuex": "^3.4.0",
+
+    "@tiptap/core": "^2.0.0-beta.131",
+    "@tiptap/extension-bold": "^2.0.0-beta.21",
+    "@tiptap/extension-bullet-list": "^2.0.0-beta.20",
+    "@tiptap/extension-color": "^2.0.0-beta.5",
+    "@tiptap/extension-document": "^2.0.0-beta.13",
+    "@tiptap/extension-hard-break": "^2.0.0-beta.27",
+    "@tiptap/extension-heading": "^2.0.0-beta.20",
+    "@tiptap/extension-image": "^2.0.0-beta.21",
+    "@tiptap/extension-italic": "^2.0.0-beta.21",
+    "@tiptap/extension-link": "^2.0.0-beta.25",
+    "@tiptap/extension-list-item": "^2.0.0-beta.16",
+    "@tiptap/extension-ordered-list": "^2.0.0-beta.21",
+    "@tiptap/extension-paragraph": "^2.0.0-beta.19",
+    "@tiptap/extension-text": "^2.0.0-beta.13",
+    "@tiptap/extension-text-align": "^2.0.0-beta.25",
+    "@tiptap/extension-text-style": "^2.0.0-beta.19",
+    "@tiptap/vue-2": "^2.0.0-beta.63",
+    "remixicon": "^2.5.0",
+    "vue-draggable-resizable": "^2.3.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
